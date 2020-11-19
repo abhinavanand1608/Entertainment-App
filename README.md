@@ -37,8 +37,12 @@ Then you will be asked to sign in and then you will reach the Dagnolflow Dahboar
 
 ![](Images/step%205.png)
 
-### Step 6- Then Click on Default Welcome Content and make sure Intents is selected on the left navigation menu.
+### Step 6- Then Click on Default Welcome Content and make sure Intents is selected on the left navigation menu. It will look as below.
 
 ![](Images/step%206.png)
 
-### Step 7- 
+### Step 7- Then move down to Responses section and delete the existing text written there.
+
+Now Click ADD RESPONSES > Text Response. And type "Hello there and welcome to youtube Entertainment! What artist or educational courses are you searching for".
+
+![](Images/step%207.png)
