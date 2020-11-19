@@ -44,5 +44,10 @@ Then you will be asked to sign in and then you will reach the Dagnolflow Dahboar
 ### Step 7- Then move down to Responses section and delete the existing text written there.
 
 Now Click ADD RESPONSES > Text Response. And type "Hello there and welcome to youtube Entertainment! What artist or educational courses are you searching for".
+And click SAVE.
 
 ![](Images/step%207.png)
+
+
+
+
