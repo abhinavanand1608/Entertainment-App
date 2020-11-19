@@ -73,6 +73,18 @@ And click SAVE.
 
 ![](Images/step%2013.png)
 
+### Step 14- Then again move back to 'API and services' and click on Create Credentials and select API key. Then a key will be provided to you so make sure you save it in a notepad.
+
+![](Images/step%2014.png)
+
+### Step 15- Now head to cloud functions and configure it as below. Make sure you select region according to yours. It will something like this.
+
+![](Images/step%2015.png)
+
+Click SAVE and hit NEXT.
+
+### Step 16-
+
 
 
 
