@@ -48,6 +48,20 @@ And click SAVE.
 
 ![](Images/step%207.png)
 
+### Step 8- Click on the '+' beside intents in the left navigation menu.
+
+![](Images/step%208%20edit.jpg)
+
+### Step 9- Type the intent name and click 'Add Training and Phases'. Type in your training phase and press Enter and select that phase to assign it a entity. It will look as follows.
+
+![](Images/step%209.png)
+
+### Step 10- Enter multiple training phases and assign them entities as below.
+
+![](Images/step%2010.png)
+
+
+
 
 
 
