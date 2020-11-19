@@ -7,3 +7,5 @@ This app tells you about the most searched result of a particular input you give
 This App needs a Google Cloud Platform Account, so make sure you have one created and also the project in which you'll be working. I will show you the steps how to configure GCP inorder to run this application.
 
 ## Steps For Installation
+
+### Step 1- Login to your Google Cloud Platform Console.
