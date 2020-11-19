@@ -9,3 +9,5 @@ This App needs a Google Cloud Platform Account, so make sure you have one create
 ## Steps For Installation
 
 ### Step 1- Login to your Google Cloud Platform Console.
+
+![](Images/dashboard.png)
