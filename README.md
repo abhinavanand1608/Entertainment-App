@@ -29,3 +29,16 @@ And Dashboard will look like this.
 ### Step 4- Then follow the steps as below and click on BUILD.
 
 ![](Images/step%204.gif)
+
+Then you will be asked to sign in and then you will reach the Dagnolflow Dahboard.
+
+
+### Step 5- Name your project and click SAVE.
+
+![](Images/step%205.png)
+
+### Step 6- Then Click on Default Welcome Content and make sure Intents is selected on the left navigation menu.
+
+![](Images/step%206.png)
+
+### Step 7- 
