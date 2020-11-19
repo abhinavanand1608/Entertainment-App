@@ -60,6 +60,21 @@ And click SAVE.
 
 ![](Images/step%2010.png)
 
+### Step 11- Now click below on 'Add Action and parameters' and check the box in front of 'any'. Now click on 'Define Prompt' and type in 'What do you want to look up  for?'. As below:-
+
+![](Images/step%2011.png)
+
+### Step 12- Now go on Responses section below and click '+' and add Google Assistant and check the 'Set the intent as end of conversation'. Then go on to Fulfillment section and enable it. Finally, it will look like this.
+
+![](Images/step%2012.png)
+
+
+### Step 13- Now move back to the console and go to 'API and Services' and enable the following API.
+
+![](Images/step%2013.png)
+
+
+
 
 
 
