@@ -114,7 +114,7 @@ And click SAVE.
 
 ## Congratulations, you have created your App. It works in a way as below.
 
-![](Video/Test%20-%20Google%20Chrome%202020-11-15%2015-21-01.mp4)
+![](Images/video.gif)
 
 
 
