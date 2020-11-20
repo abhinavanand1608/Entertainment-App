@@ -108,9 +108,13 @@ And click SAVE.
 
 ![](Images/step%2020.png)
 
-### Step 21- Now go back to Dialogflow and click on INTEGRATIONS > INTEGRATIONS SETTINGS > TEST. The page appears like this/
+### Step 21- Now go back to Dialogflow and click on INTEGRATIONS > INTEGRATIONS SETTINGS > TEST. The page appears like this.
 
 ![](Images/step%2021.png)
+
+## Congratulations, you have created your App. It works in a way as below.
+
+
 
 
 
