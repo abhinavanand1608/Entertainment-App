@@ -91,7 +91,7 @@ And click SAVE.
 
 ### Step 17- Now in package.json, paste the code which have been provided in the folder. It will look as follows.
 
-![](step%2017.png)
+![](Images/step%2017.png)
 
 ### Also make sure to type the intent name in the EntryPoint above, which you gave in the dialogflow after clicking the '+'. 
 
