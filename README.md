@@ -89,6 +89,22 @@ And click SAVE.
 
 ### Also make sure to replace <YOUR_API_KEY_HERE> with the key you've saved.
 
+### Step 17- Now in package.json, paste the code which have been provided in the folder. It will look as follows.
+
+![](step%2017.png)
+
+### Also make sure to type the intent name in the EntryPoint above, which you gave in the dialogflow after clicking the '+'. 
+
+### Step 18- Then click DEPLOY.
+
+![](step%2018.png)
+
+### Step 19- Then go in the function and click on Trigger Tab and copy the URL shown there. Go back to dialogflow and in Fulfillment section, enable Webhook and paste that URL in the URL section. As shown.
+
+![](Images/step%2019.png)
+
+
+
 
 
 
