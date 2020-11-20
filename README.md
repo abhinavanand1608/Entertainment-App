@@ -97,7 +97,7 @@ And click SAVE.
 
 ### Step 18- Then click DEPLOY.
 
-![](step%2018.png)
+![](Images/step%2018.png)
 
 ### Step 19- Then go in the function and click on Trigger Tab and copy the URL shown there. Go back to dialogflow and in Fulfillment section, enable Webhook and paste that URL in the URL section. As shown.
 
