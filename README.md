@@ -77,13 +77,17 @@ And click SAVE.
 
 ![](Images/step%2014.png)
 
-### Step 15- Now head to cloud functions and configure it as below. Make sure you select region according to yours. It will something like this.
+### Step 15- Now head to cloud functions and configure it as below. Make sure you select region according to yours. It will look something like this.
 
 ![](Images/step%2015.png)
 
-Click SAVE and hit NEXT.
+### Click SAVE and hit NEXT.
 
-### Step 16-
+### Step 16- Now in index.js, paste the code which have been provided in the Code folder of the repository. 
+
+![](Images/step%2016.png)
+
+### Also make sure to replace <YOUR_API_KEY_HERE> with the key you've saved.
 
 
 
