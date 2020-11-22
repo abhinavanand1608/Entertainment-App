@@ -1,6 +1,6 @@
 # Youtube Entertainment App
 
-This app tells you about the most searched result of a particular input you give. The input can be the name of a music artist or a computer course which you are interesed in. This app is made using Google Cloud Platform which is a pretty nice offering of Google.
+This app tells you about the most searched result of a particular input you give. The input can be the name of a music artist or a computer course which you are interesed in. This app is built on Google Cloud Platform which is a pretty nice offering of Google.
 
 ## Installation
 
