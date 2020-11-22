@@ -30,7 +30,7 @@ Visit- https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&os
 
 ![](Images/step%204.gif)
 
-### Then you will be asked to sign in and then you will reach the Dagnolflow Dahboard.
+### Then you will be asked to sign in and then you will reach the Diagnolflow Dashboard.
 
 
 ### Step 5- Name your project and click SAVE.
