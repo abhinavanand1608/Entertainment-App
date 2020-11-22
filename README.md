@@ -71,33 +71,33 @@ And click SAVE.
 
 ### Step 13- Now move back to the console and go to 'API and Services' and enable the following API.
 
-![](Images/step%2013.png)
+![](Images/step%2013%20edit.jpg)
 
 ### Step 14- Then again move back to 'API and services' and click on Create Credentials and select API key. Then a key will be provided to you so make sure you save it in a notepad.
 
-![](Images/step%2014.png)
+![](Images/step%2014%20edit.jpg)
 
 ### Step 15- Now head to cloud functions and configure it as below. Make sure you select region according to yours. It will look something like this.
 
-![](Images/step%2015.png)
+![](Images/step%2015%20edit.jpg)
 
 ### Click SAVE and hit NEXT.
 
 ### Step 16- Now in index.js, paste the code which have been provided in the Code folder of the repository. 
 
-![](Images/step%2016.png)
+![](Images/step%2016%20edit.jpg)
 
 ### Also make sure to replace <YOUR_API_KEY_HERE> with the key you've saved.
 
 ### Step 17- Now in package.json, paste the code which have been provided in the folder. It will look as follows.
 
-![](Images/step%2017.png)
+![](Images/step%2017%20edit.jpg)
 
 ### Also make sure to type the intent name in the EntryPoint above, which you gave in the dialogflow after clicking the '+'. 
 
 ### Step 18- Then click DEPLOY.
 
-![](Images/step%2018.png)
+![](Images/step%2018%20edit.jpg)
 
 ### Step 19- Then go in the function and click on Trigger Tab and copy the URL shown there. Go back to dialogflow and in Fulfillment section, enable Webhook and paste that URL in the URL section. As shown.
 
