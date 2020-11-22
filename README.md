@@ -13,7 +13,7 @@ This app tells you about the most searched result of a particular input you give
 ![](Images/dashboard%20edit.jpg)
 
 ### Step 2- Create an Actions Project
-Visit- https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&osid=1&continue=https%3A%2F%2Fconsole.actions.google.com%2F&followup=https%3A%2F%2Fconsole.actions.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+Visit- shorturl.at/axV37
 
 ### And Dashboard will look like this.
 
