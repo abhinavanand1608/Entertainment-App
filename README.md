@@ -13,7 +13,7 @@ This app tells you about the most searched result of a particular input you give
 ![](Images/dashboard%20edit.jpg)
 
 ### Step 2- Create an Actions Project
-Visit- shorturl.at/axV37
+Visit- https://console.actions.google.com/?pli=1
 
 ### And Dashboard will look like this.
 
