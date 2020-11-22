@@ -17,7 +17,7 @@ Visit- https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&os
 
 ### And Dashboard will look like this.
 
-![](Images/step%202.jpg)
+![](Images/step%202.png)
 
 
 ### Step 3- Click on NEW PROJECT and Import your project
