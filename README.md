@@ -35,7 +35,7 @@ Visit- https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&os
 
 ### Step 5- Name your project and click SAVE.
 
-![](Images/step%205.png)
+![](Images/step%205%20edit.jpg)
 
 ### Step 6- Then Click on Default Welcome Content and make sure Intents is selected on the left navigation menu. It will look as below.
 
