@@ -23,7 +23,7 @@ Visit- https://accounts.google.com/ServiceLogin/signinchooser?passive=1209600&os
 ### Step 3- Click on NEW PROJECT and Import your project
 
 
-![](Images/step%203%20edit.jpg)
+![](Images/step%203%20.jpg)
 
 
 ### Step 4- Then follow the steps as below and click on BUILD.
